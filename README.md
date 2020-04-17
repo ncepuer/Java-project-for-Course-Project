@@ -1,2 +1,2 @@
-Java Project for Course Project - Graph
-Author:Ruocong
+# Java Project for Course Project  
+Animation of Graph Algorithms
